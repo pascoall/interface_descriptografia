@@ -1,10 +1,6 @@
 from tkinter import*
 from cryptography.fernet import Fernet
 
-
-#def pegartexto():
-    #a=Entrada1.get()
-    #z=int(Entrada2.get())
     
 
 #Função para descriptografar
