@@ -29,9 +29,6 @@ janela.geometry("300x700")
 janela.title("Descriptografia")
 janela.config(bg="lightblue")
 
-#orientacao = Label(janela, text="Digite o texto criptografado")
-#orientacao.grid(column=3,row=3)
-
 #Especificações da primeira barra
 Entrada1 = Entry(janela,)
 #Local onde a barra vai aparecer
